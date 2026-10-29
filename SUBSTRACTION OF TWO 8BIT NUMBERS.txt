@@ -21,4 +21,4 @@
 	   SUB M
        CMA
 	   MOV B,A
-       INC B
+       INR B
