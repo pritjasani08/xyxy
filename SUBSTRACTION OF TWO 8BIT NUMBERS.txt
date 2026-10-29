@@ -22,3 +22,8 @@
        CMA
 	   MOV B,A
        INR B
+       MMOV A,B
+		STA C052H
+	HLT
+# ORG C050
+# DB 95H,65H
